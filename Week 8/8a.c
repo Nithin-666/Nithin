@@ -40,22 +40,6 @@ void postorderTraversal(struct Node* node) {
     printf("%d ", node->data);
 }
 
-
-
-
-
-
-
-
-
-Department of Computer Science and Engineering, Rajalakshmi Engineering College
- 
-
-
-
-Program:
-
-
 // Main function to demonstrate the tree traversals
 int main() {
     // Creating a sample binary tree
